@@ -1,0 +1,31 @@
+{
+  "name": "bln-3729",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "localStylesheets": [
+    {
+      "path": "c.css"
+    }
+  ],
+  "localScripts": [
+    {
+      "path": "a.js"
+    }
+  ]
+}
